@@ -1,0 +1,28 @@
+{
+  "name": "ticketbox_cypress",
+  "version": "1.0.0",
+  "description": "Cypress Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamileagnes/ticketbox_Cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "teste",
+    "automação",
+    "E2E"
+  ],
+  "author": "Jamile Agnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamileagnes/ticketbox_Cypress/issues"
+  },
+  "homepage": "https://github.com/jamileagnes/ticketbox_Cypress#readme",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  }
+}
